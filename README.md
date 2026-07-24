@@ -64,9 +64,3 @@ The project combines daily Truth Social posts with S&P 500 closing-price data fr
    ```
 
 The notebook expects the project data files, including `truth_archive.csv` and `S&P 500 Stock market data.CSV`, to be available in the working directory.
-
-## Authors
-
-- Kuang Sheng
-- Shangrui Wu
-- Yutong Tang
